@@ -46,7 +46,10 @@
         "uri": "en/docs/overview",
         "content": "Allocate  Allocate task managing application designed neurodivergent folk goal achieving healthier work habits alleviating burnout  Instead focusing maximizing productivity managing tasks  Allocate focuses managing energy reserves prevent overworking  Why  Typical task managing applications fail address fact individuals varying levels ability energy accomplish things within given day  Working beyond limits prolonged periods time meet unreachable productivity goals unsustainable",
         "objectID": "en/docs/overview",
-        "slug": "overview"
+        "slug": "overview",
+        "aliases": [
+            "/docs"
+        ]
     },
     {
         "title": "Setting Reminders and Deadlines",
